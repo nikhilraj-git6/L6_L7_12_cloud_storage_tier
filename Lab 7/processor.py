@@ -73,8 +73,6 @@ def lookup_bandwidth_tier_rate(tier_descriptor):
     }
 
     return tier_rates.get(prefix, 0.0)
-
-
 def main():
     print("==== Running parse_storage_quota ====")
     q_input = input("Enter quota (e.g. 500MB, 10GB, 2TB): ")
