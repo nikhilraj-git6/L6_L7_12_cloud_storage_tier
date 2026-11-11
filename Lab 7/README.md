@@ -14,5 +14,4 @@ A set of property-based fuzz tests targeting storage quota unit parsing, compres
 | `test_processor.py` | Starter test file to complete using Hypothesis |
 
 Keep all your Lab 7 work in this `LAB7` folder.
-
 Refer to the lab handout for instructions.
